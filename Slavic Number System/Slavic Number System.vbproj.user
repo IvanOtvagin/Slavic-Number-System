@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\xomak\Desktop\2\Slavic Number System\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\GameForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GuessGame.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumberGame.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Forms\MenuForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ReferenceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
